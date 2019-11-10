@@ -8,4 +8,6 @@ for (var i= 0; i < musicians.length; i++) {
 }
 console.log(array);
 
-function johnLennonFacts()
+function johnLennonFacts(facts) {
+  
+}
