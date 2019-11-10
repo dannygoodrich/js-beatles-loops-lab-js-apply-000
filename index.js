@@ -10,4 +10,5 @@ console.log(array);
 
 function johnLennonFacts(facts) {
   var results = [];
+  var count = 0;
 }
