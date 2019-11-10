@@ -7,3 +7,5 @@ for (var i= 0; i < musicians.length; i++) {
   return array;
 }
 console.log(array);
+
+function johnLennonFacts()
