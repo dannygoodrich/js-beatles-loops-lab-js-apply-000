@@ -9,5 +9,5 @@ for (var i= 0; i < musicians.length; i++) {
 console.log(array);
 
 function johnLennonFacts(facts) {
-  
+  var result
 }
